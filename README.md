@@ -3,7 +3,7 @@
 I am an Electrical and Electronics Engineering student passionate about **Embedded Systems** and **Robotics**. I enjoy building smart systems that bridge the gap between hardware and high-level software.
 
 ### 🛠 Technical Skills
-- **Languages:** C, MATLAB, Python
+- **Languages:** C, MATLAB
 - **Embedded Platforms:** STM32 (ARM Cortex-M0+), ESP32, Arduino
 - **Peripherals & Protocols:** I2C, UART, SPI, ADC, DMA, PWM
 - **Specialties:** Real-Time Operating Systems (FreeRTOS), Sensor Fusion (Complementary Filter), Piezoresistive Sensor Characterization
