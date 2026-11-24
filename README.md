@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Zehra Miray Gülseren
 
-I am a new graduate Electrical and Electronics Engineer passionate about **Embedded Systems** and **Hardware Design**. I enjoy building smart systems that bridge the gap between hardware and high-level software.
+I am a new graduated Electrical and Electronics Engineer passionate about **Embedded Systems** and **Hardware Design**. I enjoy building smart systems that bridge the gap between hardware and high-level software.
 
 ### 🛠 Technical Stack & Tools
 
